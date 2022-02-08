@@ -13,6 +13,10 @@ body{
     background-color: rgb(209, 21, 226);
 }
 
+h1{
+    font-size: 35px;
+}
+
 h2{
     font-style: italic;
     /* text-align: left; */
@@ -62,8 +66,26 @@ p{
     display: flex;
 }
 
+.about-me-section-2{
+    display: flex;
+}
+.about-me-section-2 div p{
+    text-align: center;
+    margin-left: 280px;
+
+}
+
 #about-me{
     margin-right: 189px;
+}
+
+.portfolio{
+    display: flex;
+    margin-left: 425px;
+    height: 150px;
+    width: 150px;  
+    border-radius: 50%;
+    
 }
 
 .my-work-section{
@@ -85,11 +107,6 @@ p{
     width: 100%;
 }
 
-.main-images-big{
-    flex: 2;
-
-}
-
 
 .contact-me{
     display: flex;
@@ -103,7 +120,11 @@ figure a img{
     box-shadow: 5px 1px rgb(235, 182, 11);
 }
 
-
+.main-images-big{
+    margin-left: 175px;
+    width:900px;
+    height: 600px;
+}
 
 .section-ul{
     display: flex;
@@ -172,6 +193,11 @@ a, a:link, a:visited /* a:focus, a:hover, a:active */{
         display: flex;
     }
     
+    .main-images-big{
+        margin-left: 160px;
+        width:600px;
+        height: 300px;
+    }
 
 
 
@@ -211,4 +237,9 @@ a, a:link, a:visited /* a:focus, a:hover, a:active */{
 
     }
     
+    .main-images-big{
+        margin-left: 160px;
+        width:300px;
+        height: 300px;
+    }
 }
