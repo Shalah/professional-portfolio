@@ -15,6 +15,7 @@ body{
 
 h1{
     font-size: 35px;
+    
 }
 
 h2{
@@ -38,7 +39,8 @@ p{
 } 
 
 .header{
-    color: hotpink;
+    /* color: rgb(255, 157, 206); */
+    color: aqua;
     font-style: italic;
     padding: 0 14px;
     font-size: 17px;
@@ -71,7 +73,9 @@ p{
 }
 .about-me-section-2 div p{
     text-align: center;
-    margin-left: 280px;
+    margin-left: 470px;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
 
 }
 
