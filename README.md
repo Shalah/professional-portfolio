@@ -18,3 +18,7 @@ The application is displayed with GitHub pages [here]()
 ## My Information
 - Rim Zoungrana
 - github.com/Shalah
+
+## License
+
+Licensed under the [MIT License](LICENSE)
